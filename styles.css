@@ -1,0 +1,95 @@
+.inline{
+    list-style-type: none;
+    display: flex;
+    justify-content: space-between;
+    color: white;
+    background-color: #ed242e;
+    height: 60px;
+}
+.inline li {
+    
+    padding-top: 20px;
+    
+    
+  }
+.center{
+    display: flex;
+    justify-content: center;
+    
+}
+.center li{
+    padding-left: 20px;
+    padding-right: 20px;
+}
+ .sout{
+        display: flex;
+        flex-direction: column;
+        
+  }
+  .verus{
+    position:relative;
+    
+    left: 8px;
+    padding-top: 0px !important;
+    
+    
+  }
+  .blue1{
+    background-color: #00132b;
+    position:relative;
+    left:-40px;
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+  .blue2{
+    background-color: #00132b;
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+ 
+  body{
+    background-color: #00132b !important;
+   
+  }
+  
+
+  .hh{
+    position:relative;
+    top :-400px;
+    left:-200px;
+    font-size: 50px;
+    
+  }
+  .hh1{
+    position:relative;
+    top :-400px;
+    left:-180px;
+    font-size: 50px;
+    
+  }
+  
+  .buttons{
+    list-style-type: none;
+    display: flex;
+    justify-content: flex-start;
+  }
+  .button1{
+    position: relative;
+    top :-400px;
+    left:100Px;
+    background-color: #ed242e;
+    color:white;
+    padding:10px 20px;
+    margin:10px;
+
+  }
+  .button2{
+    position: relative;
+    top :-400px;
+    left:100Px;
+    background-color: white;
+    color:black;
+    padding:10px 20px;
+    margin:10px;
+  }
+  
